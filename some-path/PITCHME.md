@@ -51,7 +51,7 @@
 
 +++
 
-### Tabulas 
+### Tabulas
 
 @ul
 - movies
@@ -85,9 +85,9 @@
 
 +++
 
-### Tabula movies_categories
+### Tabula movie_categories
 
-@img[](assets/img/filmas.lv/workbench-tables-movies_categories.png)
+@img[](assets/img/filmas.lv/workbench-tables-movie_categories.png)
 
 +++
 
@@ -97,9 +97,9 @@
 
 +++
 
-### Tabula movies_studios
+### Tabula movie_studios
 
-@img[](assets/img/filmas.lv/workbench-tables-movies_studios.png)
+@img[](assets/img/filmas.lv/workbench-tables-movie_studios.png)
 
 +++
 
