@@ -1,6 +1,8 @@
 ## repl.it skolotājiem
 
 +++
+###Tests
++++
 
 @snap[north-east span-100 text-smallcaps]
 #### repl.it skolotāja skats
