@@ -1,4 +1,4 @@
-## Kā es braucu datubāzi lūkoties
+## Kā es braucu datubāzes lūkoties
 
 +++
 
