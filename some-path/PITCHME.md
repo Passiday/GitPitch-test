@@ -1,8 +1,16 @@
-# Kā es braucu Filmas.lv lūkoties
-
-@img[](assets/img/replit-teacher.png)
+# Darbs ar datubāzēm
+## jeb kā es braucu Filmas.lv lūkoties
 
 +++
+
+@img[](assets/img/filmas.lv/home.png)
+
++++
+
+@img[](assets/img/filmas.lv/ka-es-braucu-ziemelmeitas-lukoties.png)
+
++++
+
 ## repl.it skolotājiem
 
 +++
