@@ -1,3 +1,8 @@
+# Kā es braucu Filmas.lv lūkoties
+
+@img[](assets/img/replit-teacher.png)
+
++++
 ## repl.it skolotājiem
 
 +++
