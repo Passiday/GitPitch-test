@@ -45,7 +45,7 @@
 
 ---
 
-### Tabulas
+## Datu struktūra
 
 @img[](assets/img/filmas.lv/workbench-tables.png)
 
