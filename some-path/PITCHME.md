@@ -125,21 +125,44 @@
 
 +++
 
-Filmas, kur nosaukumā minēts vīrietis
+###Filmas, kur nosaukumā minēts vīrietis
 
 ~~~~sql
-update employee
-  set salary = salary * 2
-  where salary < 100000
+SELECT
+    title_lat
+FROM
+    movies
+WHERE
+    title_lat LIKE '%vīr%';
+~~~~
+
+###Filmas, kur nosaukumā minēta sieviete
+
+~~~~sql
+SELECT
+    title_lat
+FROM
+    movies
+WHERE
+    title_lat LIKE '%siev%';
 ~~~~
 
 +++
 
-Filmas, kur nosaukumā minēta sieviete
+###100 visproduktīvākie ļaudis
 
-+++
-
-100 visproduktīvākie ļaudis
+~~~~sql
+SELECT
+    COUNT(1), surname, name, photo
+FROM
+    people
+    INNER JOIN movie_people ON people.id = movie_people.pep_id
+GROUP BY
+    people.id, surname, name
+ORDER BY
+    COUNT(1) DESC
+LIMIT 100;
+~~~~
 
 +++
 
