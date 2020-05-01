@@ -125,7 +125,7 @@
 
 +++
 
-###Filmas, kur nosaukumā minēts vīrietis
+### Filmas, kur nosaukumā minēts vīrietis
 
 ~~~~sql
 SELECT
@@ -136,7 +136,7 @@ WHERE
     title_lat LIKE '%vīr%';
 ~~~~
 
-###Filmas, kur nosaukumā minēta sieviete
+### Filmas, kur nosaukumā minēta sieviete
 
 ~~~~sql
 SELECT
@@ -149,7 +149,7 @@ WHERE
 
 +++
 
-###100 visproduktīvākie ļaudis
+### 100 visproduktīvākie ļaudis
 
 ~~~~sql
 SELECT
