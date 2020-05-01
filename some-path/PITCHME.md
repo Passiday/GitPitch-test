@@ -127,6 +127,12 @@
 
 Filmas, kur nosaukumā minēts vīrietis
 
+~~~~sql
+update employee
+  set salary = salary * 2
+  where salary < 100000
+~~~~
+
 +++
 
 Filmas, kur nosaukumā minēta sieviete
